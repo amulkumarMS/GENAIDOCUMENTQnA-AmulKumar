@@ -1,0 +1,27 @@
+# Node / frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.vite/
+
+# Python / backend
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Env and secrets
+.env
+.env.*
+
+# Local data/uploads
+backend/uploads/
+uploads/
+backend/.env
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
