@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+azure-storage-blob
+azure-search-documents
+langchain
+langchain-community
+langchain-openai
+openai
+tiktoken
+
+# Evaluation
+azure-ai-evaluation
+
+# Document processing
+pypdf
+unstructured
+pdfminer.six
+python-magic-bin
+python-docx
